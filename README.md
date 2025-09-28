@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Whoami:
 ✍️ Composition student from Oslo, Norway.<br>✨ Working with lilypond scheme & csound<br>🔭 Currently learning to develop musical webtoys with flask/docker
 
 ## 🌐 Socials:
